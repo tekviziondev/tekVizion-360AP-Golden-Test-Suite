@@ -1,6 +1,6 @@
 # Automation Scripts for tekVizion 360AP
 
-#Required Automation Version: V9.2
+#Requires latest version of the automation platform
 
 tekVizion 360AP users can now download the latest automation scripts for all the supported UC Device Vendors from this repository.
 
